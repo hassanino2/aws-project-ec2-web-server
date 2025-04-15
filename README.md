@@ -23,6 +23,8 @@ This is a simple project, but it helped me get hands-on with core AWS services a
 
 ### 📸 Screenshots
 *(Add a few here once you upload them)*
+<img width="1439" alt="Screenshot 2025-04-15 at 12 01 08 AM" src="https://github.com/user-attachments/assets/c1e65261-23c8-4b6b-883f-0439f708c0dd" />
+
 
 ### 📅 Status
 ✅ Completed – April 2025
